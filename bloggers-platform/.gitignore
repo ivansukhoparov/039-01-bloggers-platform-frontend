@@ -1,21 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-.DS_Store
-.idea
-.env
-.vscode
-.babelrc
-.stylelintrc.json
-.eslintrc.js
-*.lock
-*.ai
-*.log
-*.pdf
-*.psd
-*.sublime*
-dist
-node_modules/
-npm-debug.*
-Thumbs.db
+
 # dependencies
 /node_modules
 /.pnp
