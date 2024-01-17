@@ -1,10 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f416fe07-2433-4107-8432-7a71f9a58079" name="Changes" comment="_">
+      <change afterPath="$PROJECT_DIR$/.idea/039-01-bloggers-platform-frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pan-pal" beforeDir="false" afterPath="$PROJECT_DIR$/pan-pal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pan-pal/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/pan-pal/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pan-pal/src/app/components/Blogs/Blogs.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/pan-pal/src/app/components/Main/Blogs/Blogs.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pan-pal/src/app/components/Blogs/Blogs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pan-pal/src/app/components/Main/Blogs/Blogs.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pan-pal/src/app/components/Main/Main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pan-pal/src/app/components/Main/Main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pan-pal/src/app/components/Posts/Posts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/pan-pal/src/app/components/Main/Posts/Posts.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pan-pal/src/app/components/Posts/Posts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pan-pal/src/app/components/Main/Posts/Posts.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pan-pal/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/pan-pal/src/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pan-pal/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pan-pal/src/app/page.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pan-pal" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2b0uXcumxo0pBixyX174Ma6cLjV" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/GitHub/039_frontend_pet/039-01-bloggers-platform-frontend/pan-pal/src/app/components/Content",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "D:\\GitHub\\039_frontend_pet\\039-01-bloggers-platform-frontend\\pan-pal\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\039_frontend_pet\039-01-bloggers-platform-frontend\pan-pal\src\app\components\Content" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub\039_frontend_pet\039-01-bloggers-platform-frontend\pan-pal\src\app\components\Main" />
+      <recent name="D:\GitHub\039_frontend_pet\039-01-bloggers-platform-frontend\pan-pal\src\app\components\Content" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/pan-pal/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/pan-pal/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f416fe07-2433-4107-8432-7a71f9a58079" name="Changes" comment="" />
+      <created>1705364357733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705364357733</updated>
+      <workItem from="1705364358876" duration="1135000" />
+      <workItem from="1705627367440" duration="548000" />
+    </task>
+    <task id="LOCAL-00001" summary="_">
+      <option name="closed" value="true" />
+      <created>1705364897167</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705364897167</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="_" />
+    <option name="LAST_COMMIT_MESSAGE" value="_" />
   </component>
 </project>
