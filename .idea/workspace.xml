@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f416fe07-2433-4107-8432-7a71f9a58079" name="Changes" comment="starts S#1 HW#1">
-      <change afterPath="$PROJECT_DIR$/sprint#1/hw#1/help.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprint#1/hw#1/js/index.js" afterDir="false" />
+    <list default="true" id="f416fe07-2433-4107-8432-7a71f9a58079" name="Changes" comment="create base for next">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprint#1/hw#1/components/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/sprint#1/hw#1/components/footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprint#1/hw#1/components/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/sprint#1/hw#1/components/nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprint#1/hw#1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sprint#1/hw#1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprint#1/hw#1/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/sprint#1/hw#1/videos.html" beforeDir="false" afterPath="$PROJECT_DIR$/sprint#1/hw#1/videos.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,11 +62,11 @@
       <recent name="D:\GitHub\039_frontend_pet\039-01-bloggers-platform-frontend\pan-pal\src\app\components\Content" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub\039-front-pet\039-01-bloggers-platform-frontend\sprint#1\hw#1\components" />
       <recent name="D:\GitHub\039-front-pet\039-01-bloggers-platform-frontend\sprint#1\hw#1\js" />
       <recent name="D:\GitHub\039-front-pet\039-01-bloggers-platform-frontend\sprint#1\hw#1" />
       <recent name="D:\GitHub\039-front-pet\039-01-bloggers-platform-frontend\sprint#1\hw#1\html\videos" />
       <recent name="D:\GitHub\039-front-pet\039-01-bloggers-platform-frontend" />
-      <recent name="D:\GitHub\039_frontend_pet\039-01-bloggers-platform-frontend\pan-pal\src\app\components\Main" />
     </key>
   </component>
   <component name="RunManager" selected="npm.dev (1)">
@@ -150,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718655593740</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="create base for next">
+      <option name="closed" value="true" />
+      <created>1718659361880</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718659361880</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +161,7 @@
     <MESSAGE value="_" />
     <MESSAGE value="delete old" />
     <MESSAGE value="starts S#1 HW#1" />
-    <option name="LAST_COMMIT_MESSAGE" value="starts S#1 HW#1" />
+    <MESSAGE value="create base for next" />
+    <option name="LAST_COMMIT_MESSAGE" value="create base for next" />
   </component>
 </project>
