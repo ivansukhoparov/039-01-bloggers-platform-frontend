@@ -4,35 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f416fe07-2433-4107-8432-7a71f9a58079" name="Changes" comment="_">
-      <change afterPath="$PROJECT_DIR$/sprint#1/hw#1/components/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprint#1/hw#1/components/header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprint#1/hw#1/components/nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprint#1/hw#1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprint#1/hw#1/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprint#1/hw#1/videos.html" afterDir="false" />
+    <list default="true" id="f416fe07-2433-4107-8432-7a71f9a58079" name="Changes" comment="starts S#1 HW#1">
+      <change afterPath="$PROJECT_DIR$/sprint#1/hw#1/help.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprint#1/hw#1/js/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/public/next.svg" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/public/next.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/public/vercel.svg" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/public/vercel.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Header/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Header/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Header/NavMenu/NavItem/NavItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Header/NavMenu/NavItem/NavItem.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Header/NavMenu/NavItem/NavItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Header/NavMenu/NavItem/NavItem.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Header/NavMenu/NavMenu.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Header/NavMenu/NavMenu.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Header/NavMenu/NavMenu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Header/NavMenu/NavMenu.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Main/Blogs/Blogs.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Main/Blogs/Blogs.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Main/Blogs/Blogs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Main/Blogs/Blogs.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Main/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Main/Main.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Main/Main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Main/Main.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Main/Posts/Posts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Main/Posts/Posts.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Main/Posts/Posts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Main/Posts/Posts.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/src/app/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/src/app/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/page.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloggs/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint#1/hw#1/components/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/sprint#1/hw#1/components/footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint#1/hw#1/components/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/sprint#1/hw#1/components/nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint#1/hw#1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sprint#1/hw#1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint#1/hw#1/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint#1/hw#1/videos.html" beforeDir="false" afterPath="$PROJECT_DIR$/sprint#1/hw#1/videos.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/GitHub/039-front-pet/039-01-bloggers-platform-frontend/sprint#1/hw#1/components",
+    "last_opened_file_path": "D:/GitHub/039-front-pet/039-01-bloggers-platform-frontend/sprint#1/hw#1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -83,15 +64,16 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\039-front-pet\039-01-bloggers-platform-frontend\sprint#1\hw#1" />
       <recent name="D:\GitHub\039-front-pet\039-01-bloggers-platform-frontend\sprint#1\hw#1\components" />
       <recent name="D:\GitHub\039_frontend_pet\039-01-bloggers-platform-frontend\pan-pal\src\app\components\Content" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub\039-front-pet\039-01-bloggers-platform-frontend\sprint#1\hw#1\js" />
       <recent name="D:\GitHub\039-front-pet\039-01-bloggers-platform-frontend\sprint#1\hw#1" />
       <recent name="D:\GitHub\039-front-pet\039-01-bloggers-platform-frontend\sprint#1\hw#1\html\videos" />
       <recent name="D:\GitHub\039-front-pet\039-01-bloggers-platform-frontend" />
       <recent name="D:\GitHub\039_frontend_pet\039-01-bloggers-platform-frontend\pan-pal\src\app\components\Main" />
-      <recent name="D:\GitHub\039_frontend_pet\039-01-bloggers-platform-frontend\pan-pal\src\app\components\Content" />
     </key>
   </component>
   <component name="RunManager" selected="npm.dev (1)">
@@ -152,7 +134,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705364897167</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="delete old">
+      <option name="closed" value="true" />
+      <created>1718655569683</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718655569683</updated>
+    </task>
+    <task id="LOCAL-00003" summary="starts S#1 HW#1">
+      <option name="closed" value="true" />
+      <created>1718655593740</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718655593740</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +158,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="_" />
-    <option name="LAST_COMMIT_MESSAGE" value="_" />
+    <MESSAGE value="delete old" />
+    <MESSAGE value="starts S#1 HW#1" />
+    <option name="LAST_COMMIT_MESSAGE" value="starts S#1 HW#1" />
   </component>
 </project>

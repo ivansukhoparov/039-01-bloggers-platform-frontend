@@ -1,9 +1,9 @@
 {
-  "name": "'",
+  "name": "bloggeras_platform_frontend",
   "version": "1",
   "main": "index.js",
   "repository": "git@github.com:ivansukhoparov/039-01-bloggers-platform-frontend.git",
   "author": "ivansukhoparov <rbcdaaa@gmail.com>",
   "license": "MIT",
-  "tyoe": "module"
+  "type": "module"
 }
