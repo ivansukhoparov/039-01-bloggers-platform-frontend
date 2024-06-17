@@ -5,24 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f416fe07-2433-4107-8432-7a71f9a58079" name="Changes" comment="_">
-      <change afterPath="$PROJECT_DIR$/.idea/039-01-bloggers-platform-frontend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprint#1/hw#1/components/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprint#1/hw#1/components/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprint#1/hw#1/components/nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprint#1/hw#1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprint#1/hw#1/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprint#1/hw#1/videos.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pan-pal" beforeDir="false" afterPath="$PROJECT_DIR$/pan-pal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pan-pal/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/pan-pal/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pan-pal/src/app/components/Blogs/Blogs.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/pan-pal/src/app/components/Main/Blogs/Blogs.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pan-pal/src/app/components/Blogs/Blogs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pan-pal/src/app/components/Main/Blogs/Blogs.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pan-pal/src/app/components/Main/Main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pan-pal/src/app/components/Main/Main.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pan-pal/src/app/components/Posts/Posts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/pan-pal/src/app/components/Main/Posts/Posts.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pan-pal/src/app/components/Posts/Posts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pan-pal/src/app/components/Main/Posts/Posts.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pan-pal/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/pan-pal/src/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pan-pal/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pan-pal/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/public/next.svg" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/public/next.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/public/vercel.svg" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/public/vercel.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Header/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Header/NavMenu/NavItem/NavItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Header/NavMenu/NavItem/NavItem.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Header/NavMenu/NavItem/NavItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Header/NavMenu/NavItem/NavItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Header/NavMenu/NavMenu.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Header/NavMenu/NavMenu.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Header/NavMenu/NavMenu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Header/NavMenu/NavMenu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Main/Blogs/Blogs.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Main/Blogs/Blogs.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Main/Blogs/Blogs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Main/Blogs/Blogs.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Main/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Main/Main.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Main/Main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Main/Main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Main/Posts/Posts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Main/Posts/Posts.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/src/app/components/Main/Posts/Posts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/components/Main/Posts/Posts.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/src/app/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/src/app/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/page.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloggs/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/bloggs/src/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pan-pal" />
@@ -43,11 +66,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/GitHub/039_frontend_pet/039-01-bloggers-platform-frontend/pan-pal/src/app/components/Content",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/GitHub/039-front-pet/039-01-bloggers-platform-frontend/sprint#1/hw#1/components",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,14 +83,28 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\039-front-pet\039-01-bloggers-platform-frontend\sprint#1\hw#1\components" />
       <recent name="D:\GitHub\039_frontend_pet\039-01-bloggers-platform-frontend\pan-pal\src\app\components\Content" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub\039-front-pet\039-01-bloggers-platform-frontend\sprint#1\hw#1" />
+      <recent name="D:\GitHub\039-front-pet\039-01-bloggers-platform-frontend\sprint#1\hw#1\html\videos" />
+      <recent name="D:\GitHub\039-front-pet\039-01-bloggers-platform-frontend" />
       <recent name="D:\GitHub\039_frontend_pet\039-01-bloggers-platform-frontend\pan-pal\src\app\components\Main" />
       <recent name="D:\GitHub\039_frontend_pet\039-01-bloggers-platform-frontend\pan-pal\src\app\components\Content" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.dev">
+  <component name="RunManager" selected="npm.dev (1)">
+    <configuration name="dev (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/bloggs/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/pan-pal/package.json" />
       <command value="run" />
@@ -89,6 +127,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.dev (1)" />
         <item itemvalue="npm.dev" />
         <item itemvalue="npm.start" />
       </list>
